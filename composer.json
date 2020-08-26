@@ -1,0 +1,14 @@
+{
+    "name": "simplon/api-php-native-doctrine",
+    "authors": [{
+        "name": "Moustapha Dieye",
+        "email": "moustaphadieye96@gmail.com"
+    }],
+    "require": {
+        "doctrine/orm": "^2.6.2",
+        "fzaninotto/faker": "^1.9"
+    },
+    "autoload": {
+        "psr-0": { "": "src/entite/" }
+    }
+}
